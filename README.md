@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 24-11-2026
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Windows Specifications of your Laptop.
@@ -36,9 +36,58 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+    <html>
+    <head>
+        
+    <title>TCP/IP Protocol Suite</title>
+
+
+    </head>
+ 
+  
+    <body>
+    
+    <h1>NAME : BHAVANESH.S</h1>
+    <h1>REGISTER NUMBER:26018650</h1>
+     
+    <h1>TCP/IP Protocol Suite</h1>
+
+    <h2>Application Layer</h2>
+    <ul>
+        <li>HTTP</li>
+        <li>HTTPS</li>
+        <li>FTP</li>
+        <li>SMTP</li>
+        <li>DNS</li>
+        <li>SSH</li>
+    </ul>
+
+    <h2>Transport Layer</h2>
+    <ul>
+        <li>TCP</li>
+        <li>UDP</li>
+    </ul>
+
+    <h2>Internet Layer</h2>
+    <ul>
+        <li>IP (IPv4 / IPv6)</li>
+        <li>ICMP</li>
+        <li>ARP</li>
+        <li>IGMP</li>
+    </ul>
+
+    <h2>Network Access Layer</h2>
+    <ul>
+        <li>Ethernet</li>
+        <li>Wi-Fi (IEEE 802.11)</li>
+        <li>PPP</li>
+    </ul>
+    </body>
+    </html>
 
 
 ## OUTPUT:
+<img width="1332" height="912" alt="Screenshot 2026-11-24 131713" src="https://github.com/user-attachments/assets/9aa32b32-f3a6-4dc2-9232-e3abeef50e6a" />
 
 
 ## RESULT:
